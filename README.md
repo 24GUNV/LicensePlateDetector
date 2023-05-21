@@ -32,9 +32,9 @@
 
 
 ## Screenshots
+![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/4a6a9d7c-f067-40d3-b5d8-87701b8eb841)
 ![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/aa564a0b-8f5e-4b01-ab21-22d4be32ed74)
 ![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/b5a26af9-468d-4fae-a474-d2f729950ad9)
-![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/4a6a9d7c-f067-40d3-b5d8-87701b8eb841)
 
 
 
