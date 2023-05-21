@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-<!-- * [Screenshots](#screenshots) -->
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 <!-- * [Usage](#usage) -->
 * [Project Status](#project-status)
@@ -30,10 +30,13 @@
 - Detect and apply bounding box on license plate
 - Somewhat get text from image
 
-<!--
+
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
--->
+![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/aa564a0b-8f5e-4b01-ab21-22d4be32ed74)
+![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/b5a26af9-468d-4fae-a474-d2f729950ad9)
+![licenseplate](https://github.com/24GUNV/LicensePlateDetector/assets/38719890/4a6a9d7c-f067-40d3-b5d8-87701b8eb841)
+
+
 
 ## Setup
 Use the same steps as the notebook (for now)
