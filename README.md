@@ -62,7 +62,6 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - Dataset of license plate images from [here](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?resource=download)
 
 
