@@ -1,6 +1,7 @@
 # License Plate Detector
 
-Using TensorFlow Lite and Pytesseract to identify the license plate text from a microcontroller camera.
+The License Plate Detector is a project that utilizes TensorFlow Lite and Pytesseract to identify license plate text from a microcontroller camera.
+
 
 ## Table of Contents
 - [General Info](#general-information)
@@ -15,14 +16,18 @@ Using TensorFlow Lite and Pytesseract to identify the license plate text from a 
 
 ## General Information
 
-I trained a TensorFlow Lite model to detect and place a bounding box on license plates. Then applied Pytesseract in order to get the text from the image.
+The project involves training a TensorFlow Lite model to detect license plates and apply bounding boxes to them. The captured images are then processed using Pytesseract to extract the text from the license plates.
 
 ## Technologies Used
+
+The License Plate Detector utilizes the following technologies:
 
 - Tensorflow Lite
 - Pytesseract
 
 ## Features
+
+The License Plate Detector offers the following features:
 
 - Detect and apply bounding box on license plate
 - Somewhat get text from image
@@ -35,7 +40,7 @@ I trained a TensorFlow Lite model to detect and place a bounding box on license 
 
 ## Usage
 
-Run through the notebook (for now).
+To use the License Plate Detector, follow the steps provided in the notebook for now.
 
 ## Project Status
 
@@ -43,20 +48,20 @@ Project is: _in progress_
 
 ## Room for Improvement
 
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Areas that could be improved and future development tasks include:
 
 Room for improvement:
 - OCR more efficient
-- Cleaning of the image be better for the OCR
+- Improve image cleaning for better OCR results
 
 To do:
-- Get deployment on microcontroller
-- Convert notebook to file format
-- Update setup, usage, screenshot section to README
+- Deploy the model on a microcontroller
+- Convert notebook to a file format
+- Update setup, usage, screenshots section in the README
 
 ## Acknowledgements
 
-- Dataset of license plate images from [here](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?resource=download)
+- The dataset of license plate images used in this project is sourced from [here](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?resource=download)
 
 ## Contact
 
